@@ -10,3 +10,34 @@ p
   {
     font-family: vernada;
   }
+h1
+  {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+  }
+
+h2
+  {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+  }
+
+p
+  {
+    font-size: 21px;
+    color: gray;
+  }
+
+.link
+  {
+    font-size: 16px;
+    color: aquamarine;
+  }
+
+.trademark
+  {
+    text-align: right;
+    color: grey;
+  }
